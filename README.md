@@ -124,3 +124,19 @@ See `docs/POWER_BI_GUIDE.md` for dashboard pages and DAX measure suggestions.
 - Recommended Staff Hours
 - Staffing Gap
 - Anomaly Flag
+
+## Screenshots
+
+Outputs
+
+<p align="center"><img src="0.JPG" width="1000"></p>
+<p align="center"><img src="1.JPG" width="1000"></p>
+<p align="center"><img src="2.JPG" width="1000"></p>
+<p align="center"><img src="3.JPG" width="1000"></p>
+<p align="center"><img src="4.JPG" width="1000"></p>
+<p align="center"><img src="5.JPG" width="1000"></p>
+<p align="center"><img src="6.JPG" width="1000"></p>
+<p align="center"><img src="7.JPG" width="1000"></p>
+<p align="center"><img src="8.JPG" width="1000"></p>
+
+
