@@ -1,0 +1,2 @@
+model,train_rows,test_rows,cutoff_date,MAE,RMSE,MAPE_percent
+RandomForestRegressor,18360,3600,2024-11-01,492.6,659.7,14.22
